@@ -7,7 +7,7 @@ Currently upskilling in Cloud Security (Azure) and Automation.
 
 - 🔭 I’m currently working on: Automating security log analysis with Python
 - 💼 My experience: Managed security infrastructure for Marina Bay Sands
-- 🎓 Education: Diploma in Network Defence & Forensic Countermeasures (SB Academy)
+- 🎓 Education: Diploma in Network Defence & Forensic Countermeasures (PSB Academy)
 
 ### 🛠️ Skills
 * **Operations:** Incident Response, Access Control Systems, Risk Mitigation
