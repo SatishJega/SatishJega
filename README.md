@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**SatishJega/SatishJega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Security Infrastructure Specialist & Technical Officer
+I am a Security Operations professional based in Singapore with a background in Network Defence. I specialize in bridging the gap between physical security infrastructure (Access Control, Surveillance) and digital security operations.
 
-Here are some ideas to get you started:
+Currently upskilling in Cloud Security (Azure) and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Automating security log analysis with Python
+- 💼 My experience: Managed security infrastructure for Marina Bay Sands
+- 🎓 Education: Diploma in Network Defence & Forensic Countermeasures (SB Academy)
+
+### 🛠️ Skills
+* **Operations:** Incident Response, Access Control Systems, Risk Mitigation
+* **Tech:** Python (Learning), Network Forensics, Microsoft Azure (In Progress)
+
+---
+*Connect with me on LinkedIn!*
