@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Satish! 👋
 
 ### 🛡️ Security Infrastructure Specialist & Technical Officer
 I am a Security Operations professional based in Singapore with a background in Network Defence. I specialize in bridging the gap between physical security infrastructure (Access Control, Surveillance) and digital security operations.
